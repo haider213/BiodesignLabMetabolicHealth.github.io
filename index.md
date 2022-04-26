@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## This page is to give a preview of the Metabolic Health related projects at Biodesign Lab
 
-You can use the [editor on GitHub](https://github.com/haider213/MyProfile/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Metabolic Health is recently getting a lot of traction and it is wise to feel t
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
