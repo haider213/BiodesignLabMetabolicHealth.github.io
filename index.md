@@ -1,6 +1,6 @@
 ## This page is to give a preview of the Metabolic Health related projects at Biodesign Lab
 
-Metabolic Health is recently getting a lot of traction and it is wise to feel t
+Metabolic Health is recently getting a lot of traction and it is wise to develop various ways to get information related to machine learning and its implementation using wearables.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
